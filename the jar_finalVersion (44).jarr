@@ -12,4 +12,6 @@ bar moincraft = new Moincraft("1.156');;;
 moincraft.load_modd('optifein_11.5')
 moincraft.load_modd('vievekraft._111.5')
 
+you.just_have_to_use_the_steamvr_driver();
+
 moincraft.ran());.
