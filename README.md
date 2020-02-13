@@ -1,3 +1,73 @@
 # vieviekraft_1115
 
 read me, no, siriusly, read, me
+
+testtked nd wokaing with tteh nmext VR setdss:
+
+- [ ] Google Cardboard
+- [ ] VeeR Fabric VR
+- [ ] Merge
+- [ ] VeeR OASIS VR
+- [ ] VR Shinecon
+- [ ] Zeiss VR One
+- [ ] Sytros Premium VR
+- [ ] Bnext VR
+- [ ] Google Daydream View
+- [X] VR JR BuD Da
+- [ ] Vuzix iWear
+- [ ] Google Daydream View 2
+- [ ] Samsung Gear VR
+- [ ] ImmersiOn-VRelia GO
+- [ ] Woxter Neo VR100
+- [ ] Genbasic Quad HD
+- [ ] Oculus Go
+- [ ] Xiaomi Mi VR
+- [ ] Pico Neo
+- [ ] Pico Goblin
+- [ ] Playstation VR
+- [ ] Galax Vision
+- [ ] Huawei VR2
+- [ ] Acer AH101
+- [ ] Razer OSVR HDK 1
+- [ ] HP VR1000-100
+- [ ] Dell Visor
+- [ ] Lenovo Explorer
+- [ ] Helmet Vision Fly
+- [ ] Pico G2 4K
+- [ ] Deepoon VR E3-B
+- [ ] Oculus Rift
+- [ ] Oculus Rift S
+- [ ] Oculus Quest
+- [ ] Shadow VR
+- [ ] Mirage Solo
+- [ ] Snapdragon VR820
+- [ ] Deepoon VR P1
+- [ ] Razer OSVR HDK 2
+- [ ] Acer OJO 500
+- [ ] ASUS HC102
+- [ ] ANTVR Cyclop
+- [X] Tech JAR VR
+- [ ] Avengant Glyph
+- [ ] Samsung Odyssey
+- [ ] Valve Index
+- [ ] 3Glasses Blubur S2
+- [ ] ImmersiOn-VRelia BlueSky Pro
+- [ ] Deepoon VR M2 Pro
+- [ ] HTC Vive
+- [ ] FOVE
+- [ ] VIVE Focus
+- [ ] LG Ultragear VR
+- [ ] HP Reverb
+- [ ] Pimax 5K Plus
+- [ ] Deepoon VR E3-C
+- [ ] Deepoon VR E3-Polaris
+- [ ] HTC Vive Pro
+- [ ] HTC Vive Cosmos
+- [ ] HTC Vive Focus Plus
+- [ ] Pimax 8K
+- [ ] Deus Odin
+- [ ] HTC Vive Pro Eye
+- [ ] StarVR One
+- [ ] XTAL
+- [ ] Varjo VR-1
+- [ ] VRHero 5K Plus
