@@ -1,15 +1,13 @@
-//this is the mod, working proprrerly.
+# This is the mod, working proprrerly.
+# Revised to the superior language
+import openvr
+import minecraft
 
-class vievekraft._111.5 {
+mcwindow = javaw.exe
 
-  rum() {
-    //TODU
-  ]
-
-}ç}
-
-bar moincraft = new Moincraft("1.156');;;
-moincraft.load_modd('optifein_11.5')
-moincraft.load_modd('vievekraft._111.5')
-
-moincraft.ran());.
+class vivecraft:
+    try:
+        openvr.start(mcwindow)
+        vivecraft.run()
+    except:
+        dont()
